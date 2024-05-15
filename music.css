@@ -1,0 +1,14 @@
+.player-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.controls button {
+    margin: 5px;
+    border-radius: 10px;
+    border-color: black;
+}
+.controls button:hover{
+    transition: 0;
+    color:green;
+}
